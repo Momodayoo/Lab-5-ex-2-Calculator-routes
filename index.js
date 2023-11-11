@@ -14,7 +14,7 @@ app.use('/mytest', testRoutes);
 app.use('/calculator', calculatorRoutes);
 
 app.get('/', (req, res) => {
-    res.send ("Hellow World!");
+    res.send ("Helloww World!");
 });
 
 // map the calculator routes to our app
